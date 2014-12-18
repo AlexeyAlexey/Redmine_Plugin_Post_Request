@@ -1,0 +1,15 @@
+= post_request_when_issue_updates_plugin
+
+Redmine plagin
+
+Makes post request to the server when issue updates
+Request in json format 
+{
+ 'issueid': 111,
+ 'userid': "222",
+ 'datetime': "DateTime"
+}
+
+issueid - issue identifier that was updated
+userid - user identifier that did update of issue
+datetime - date and time when update was done
