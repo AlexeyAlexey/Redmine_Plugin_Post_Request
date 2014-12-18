@@ -1,6 +1,6 @@
 = post_request_when_issue_updates_plugin
 
-Redmine plagin
+Redmine plugin
 
 Makes post request to the server when issue updates
 
